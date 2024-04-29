@@ -96,7 +96,7 @@ Dive into state locking and the prevention of concurrent updates. Implement stat
 
 #### Understanding Provisioners in Terraform
 
-Learn about provisioners, mechanisms for executing actions on resources during creation and destruction. Understand how they facilitate customization.
+Learn about provisioners, mechanism for executing actions on resources during creation and destruction. Understand how they facilitate customization.
 
 #### Remote-exec and Local-exec Provisioners
 
