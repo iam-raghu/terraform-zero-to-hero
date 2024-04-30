@@ -1,4 +1,4 @@
-# Multiple Providers
+# Multiple Providers:
 
 You can use multiple providers in one single terraform project. For example,
 
