@@ -1,4 +1,4 @@
-# Install Terraform
+# Install Terraform:
 
 ## Windows
 
