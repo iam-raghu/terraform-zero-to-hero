@@ -1,4 +1,4 @@
-# Terraform tfvars
+# Terraform tfvars:
 
 In Terraform, `.tfvars` files (typically with a `.tfvars` extension) are used to set specific values for input variables defined in your Terraform configuration. 
 
