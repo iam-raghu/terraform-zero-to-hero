@@ -1,4 +1,4 @@
-# Variables Demo
+# Variables Demo:
 
 ```hcl
 
