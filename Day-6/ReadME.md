@@ -1,7 +1,7 @@
-# terraform workspace new prod
-# terraform workspace -h
-# terraform workspace select dev
-# terraform workspace show
+terraform workspace new prod
+terraform workspace -h
+terraform workspace select dev
+terraform workspace show
 
 
 $ terraform workspace -h
