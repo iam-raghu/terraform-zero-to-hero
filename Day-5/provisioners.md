@@ -77,9 +77,9 @@ Certainly, let's delve deeper into the `file`, `remote-exec`, and `local-exec` p
    
 
 
- Once everything has done and if getting some error the check below command:
+Once everything has done and if getting some error the check below command:
 
-# ssh -i ~/.ssh/id_rsa ubuntu@13.233.216.137
+ssh -i ~/.ssh/id_rsa ubuntu@13.233.216.137
 ls
 pwd
 sudo python3 app.py
