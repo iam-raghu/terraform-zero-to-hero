@@ -11,4 +11,3 @@ if __name__ == "__main__":
 
 
 
-# ssh -i ~/.ssh/id_rsa ubuntu@13.233.216.137
