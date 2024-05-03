@@ -75,26 +75,5 @@ Certainly, let's delve deeper into the `file`, `remote-exec`, and `local-exec` p
 
    In this example, a `null_resource` is used with a `local-exec` provisioner to run a simple local command that echoes a message to the console whenever Terraform is applied or refreshed. The `timestamp()` function ensures it runs each time.
    
-
-
-Once everything has done and if getting some error the check below command:
-
-ssh -i ~/.ssh/id_rsa ubuntu@13.233.216.137
-ls
-pwd
-sudo python3 app.py
-sudo pip3 install flask
-sudo apt install pythonpy
-sudo python3 app.py
-sudo apt update
-sudo apt install python3-flask
-sudo python3 -m venv my_env
-sudo apt install python3.12-venv
-sudo python3 -m venv my_env
-source my_env/bin/activate
-pip install Flask
-ls
-python3 app.py
-sudo python3 app.py
-   
+ 
  
