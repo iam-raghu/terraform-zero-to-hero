@@ -9,3 +9,6 @@ def hello():
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=80)
 
+
+
+# ssh -i ~/.ssh/id_rsa ubuntu@13.233.216.137
