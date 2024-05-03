@@ -72,6 +72,10 @@ To enable the AppRole authentication method in Vault, you need to use the Vault 
 Run the following command to enable the AppRole authentication method:
 
 ```bash
+export VAULT_ADDR=http://3.109.153.26:8200
+```
+
+```bash
 vault auth enable approle
 ```
 
