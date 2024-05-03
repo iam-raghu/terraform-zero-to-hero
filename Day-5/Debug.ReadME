@@ -1,0 +1,23 @@
+Once everything has done and if getting some error the check below command:
+
+ssh -i ~/.ssh/id_rsa ubuntu@13.233.216.137
+ls
+pwd
+sudo python3 app.py
+sudo pip3 install flask
+sudo apt install pythonpy
+sudo python3 app.py
+sudo apt update
+sudo apt install python3-flask
+sudo python3 -m venv my_env
+sudo apt install python3.12-venv
+sudo python3 -m venv my_env
+source my_env/bin/activate
+pip install Flask
+ls
+python3 app.py
+sudo python3 app.py
+
+# Now go to AWS Console and click on open address inside EC2 Server
+http://13.233.216.137/
+
