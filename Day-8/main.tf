@@ -7,3 +7,7 @@ import {
 
   to = aws_instance.migrated
 }
+
+
+# For this command we will get complete configuration using which we can import Server.
+# terraform plan -generate-config-out=generated_resoureces.tf
