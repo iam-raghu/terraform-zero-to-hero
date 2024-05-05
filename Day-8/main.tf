@@ -9,5 +9,5 @@ import {
 }
 
 
-# For this command we will get complete configuration using which we can import Server.
+# For this command we will get the complete configuration using it and then copy and paste the configuration in main.tf after removing the "import details". and as well as delete resources.tf files as well from VS Code.
 # terraform plan -generate-config-out=generated_resoureces.tf
